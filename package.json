@@ -1,5 +1,5 @@
 {
-  "name": "koa-sequelize-rest",
+  "name": "koa-sequelize-restful",
   "version": "0.1.0",
   "description": "Quickly add koa restful api",
   "main": "index.js",

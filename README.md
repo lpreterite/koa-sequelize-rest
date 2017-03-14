@@ -3,7 +3,7 @@ Quickly add koa restful api
 
 # Installation
 ```
-npm install koa-sequelize-rest --save
+npm install koa-sequelize-restful --save
 ```
 
 # Example
