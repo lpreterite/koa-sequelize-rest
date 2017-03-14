@@ -1,0 +1,42 @@
+{
+  "name": "koa-sequelize-rest",
+  "version": "0.1.0",
+  "description": "Quickly add koa restful api",
+  "main": "index.js",
+  "directories": {
+    "test": "test --harmony*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpreterite/koa-sequelize-rest.git"
+  },
+  "keywords": [
+    "koa",
+    "sequelize",
+    "restful"
+  ],
+  "author": "packy-tang <lpreterite@126.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpreterite/koa-sequelize-rest/issues"
+  },
+  "homepage": "https://github.com/lpreterite/koa-sequelize-rest#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "koa": "^2.0.0-alpha.8",
+    "koa-bodyparser": "^3.2.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.0.1",
+    "mocha": "^3.2.0",
+    "sequelize": "^3.27.0",
+    "sqlite3": "^3.1.8",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa-convert": "^1.2.0"
+  }
+}
