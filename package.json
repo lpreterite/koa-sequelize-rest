@@ -1,8 +1,8 @@
 {
   "name": "koa-sequelize-restful",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickly add koa restful api",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "test": "test --harmony*"
   },

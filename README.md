@@ -11,7 +11,7 @@ npm install koa-sequelize-restful --save
 const Koa = require('koa');
 const app = new Koa();
 
-const restful = require('koa-sequelize-rest');
+const restful = require('koa-sequelize-restful');
 const router = restful(new Router({prefix: '/users'}), { model: user });
 
 app.use(router.routes());
